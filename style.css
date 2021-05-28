@@ -1,0 +1,47 @@
+*{
+    margin:0; 
+    padding:0
+}
+
+.game-div{
+    margin: 2% auto;
+    width: 50%;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 2%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #eee;
+}
+
+.rps-image{
+    height: 100px;
+    margin: 25px;
+}
+
+p, h1, h3{
+    color: #e17055;
+    margin: 5px;
+}
+
+
+
+.btn-choice{
+    padding: 1%;
+    color: lightcoral;
+    background-color: white;
+    font-weight: bold;
+    border: 1px solid lightcoral;
+    margin: 25px 50px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.restart{
+    background-color: #00b894;
+    color: white;
+    border: none;
+    width: 100px;
+    cursor: pointer;
+    padding: 1%;
+    border-radius: 7px;
+}
