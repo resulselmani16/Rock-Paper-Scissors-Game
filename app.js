@@ -9,7 +9,7 @@ var paper = document.getElementById("paper")
 var scissors = document.getElementById("scissors")
 let yourScore = 0;
 let cpuScore = 0;
-var restart = document.getElementById("restart")
+var result = document.getElementById("result")
 let cputext = document.getElementById("cpuChoice")
 
 
